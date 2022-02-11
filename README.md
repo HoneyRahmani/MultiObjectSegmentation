@@ -1,8 +1,6 @@
 
 ## Table of Content
-> * [Multi Object Segmentation - Pytorch
-](# MultiObjectSegmentation-Pytorch
-)
+> * [Multi Object Segmentation - Pytorch](# MultiObjectSegmentation-Pytorch)
 >   * [About the Project](#AbouttheProject)
 >   * [About Database](#AboutDatabases)
 >   * [Built with](#Builtwith)
@@ -33,8 +31,6 @@ http:/ /host.robots.ox.ac.uk/pascal/VOC/ voc2012/ index. html.
     •	conda install pytorch torchvision cudatoolkit=coda version -c pytorch
 
 ## Examples
-
-![mos](https://user-images.githubusercontent.com/75105778/153681266-0614786e-f9c8-4528-9947-c8f34f443389.png)
 
 
 ![mos1](https://user-images.githubusercontent.com/75105778/153681271-78f1d1b2-92e7-460e-8d99-a7672e814461.png)
